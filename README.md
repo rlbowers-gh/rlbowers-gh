@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @rlbowers-gh, I work as an ODI Fellow for the Government of Ghana on data initiatives which monitor the SDGs
-- 👀 I’m interested in impact evaluaation, data visualisation and knwoledge brokering
+- # Introduction
+-  👋 Hi, I’m @rlbowers-gh, I work as an ODI Fellow for the Government of Ghana on data initiatives which monitor the SDGs
+- 👀 I’m interested in impact evaluaation, data visualisation and knowledge brokering
 - 🌱 I’m currently learning R and SQL and strengthening STATA proficiency
 - 📫 How to reach me - email me on rachel.bowers@statsghana.gov.gh
 
